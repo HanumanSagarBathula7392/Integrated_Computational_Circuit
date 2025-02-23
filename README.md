@@ -62,6 +62,7 @@ The computational unit is structured as follows:
 - The project includes various **test circuits** to validate each module.  
 - The final design is confirmed with **waveform outputs matching expected results**.  
 
+**Note:** To simulate the overall design, you must download all the files provided in the [LT_Spice_Files.](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/tree/main/LTSPICE_FILES)
 
 ## **Conclusion**  
 This CMOS-based computational unit successfully demonstrates the integration of **digital logic design principles** into a **functional LTSpice simulation**. The project can be extended further for **larger bit-widths** or **optimized power/performance**.  
