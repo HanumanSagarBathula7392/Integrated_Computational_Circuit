@@ -1,0 +1,41 @@
+Circuit: * C:\Users\bathu\AppData\Local\LTspice\ASR_TESTING.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Wed Dec  6 14:55:16 2023
+Total elapsed time: 0.605 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2542
+traniter = 2094
+tranpoints = 1048
+accept = 1048
+rejected = 0
+matrix size = 224
+fillins = 36
+solver = Normal
+Avg thread counts: 2.8/3.7/3.6/2.3
+Matrix Compiler1: 23.18 KB object code size  8.8/4.1/[1.9]
+Matrix Compiler2: 28.29 KB object code size  6.0/5.8/[1.9]
+

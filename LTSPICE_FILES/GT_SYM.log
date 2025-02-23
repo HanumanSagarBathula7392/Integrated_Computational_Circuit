@@ -1,0 +1,41 @@
+Circuit: * C:\Users\bathu\AppData\Local\LTspice\GT_SYM.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Tue Nov 28 01:10:14 2023
+Total elapsed time: 0.346 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2565
+traniter = 2094
+tranpoints = 1048
+accept = 1048
+rejected = 0
+matrix size = 124
+fillins = 104
+solver = Normal
+Avg thread counts: 3.9/3.7/3.7/2.3
+Matrix Compiler1: 20.44 KB object code size  3.5/1.6/[0.8]
+Matrix Compiler2: 17.20 KB object code size  1.5/2.1/[0.6]
+

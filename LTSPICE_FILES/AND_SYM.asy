@@ -1,0 +1,27 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -32 48 -32 -48
+LINE Normal 0 -48 -32 -48
+LINE Normal 0 47 -32 48
+LINE Normal -16 -97 -16 -48
+LINE Normal -16 97 -16 48
+LINE Normal 96 0 48 0
+LINE Normal -32 -32 -80 -32
+LINE Normal -81 32 -32 32
+ARC Normal 48 47 -47 -49 0 47 0 -48
+TEXT -24 0 Left 2 AND
+PIN -80 -32 BOTTOM 8
+PINATTR PinName Vin1
+PINATTR SpiceOrder 1
+PIN -80 32 BOTTOM 8
+PINATTR PinName Vin2
+PINATTR SpiceOrder 2
+PIN -16 -96 TOP 8
+PINATTR PinName Vpos
+PINATTR SpiceOrder 3
+PIN -16 96 BOTTOM 8
+PINATTR PinName Vneg
+PINATTR SpiceOrder 4
+PIN 96 0 BOTTOM 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 5

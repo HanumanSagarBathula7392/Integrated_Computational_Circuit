@@ -1,0 +1,27 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -52 -32 -112 -32
+LINE Normal -52 32 -112 32
+LINE Normal 0 96 0 42
+LINE Normal 0 -96 0 -42
+LINE Normal 96 0 48 0
+ARC Normal -64 -48 -32 48 -48 48 -48 -48
+ARC Normal -80 -48 -48 48 -64 48 -64 -48
+ARC Normal -128 -48 50 73 48 0 -48 -48
+ARC Normal -128 48 50 -73 -48 48 48 0
+TEXT -25 -2 Left 2 XOR
+PIN -112 -32 BOTTOM 8
+PINATTR PinName Vin1
+PINATTR SpiceOrder 1
+PIN -112 32 BOTTOM 8
+PINATTR PinName Vin2
+PINATTR SpiceOrder 2
+PIN 0 -96 RIGHT 8
+PINATTR PinName Vpos
+PINATTR SpiceOrder 3
+PIN 96 0 BOTTOM 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 4
+PIN 0 96 RIGHT 8
+PINATTR PinName Vneg
+PINATTR SpiceOrder 5
