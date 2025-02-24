@@ -64,6 +64,15 @@ The computational unit is structured as follows:
 
 **Note:** To simulate the overall design, you must download all the files provided in the [LT_Spice_Files.](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/tree/main/LTSPICE_FILES)
 
+## License
+
+This project is open-source and available under the MIT License.
+
+## Contact
+
+For any inquiries or discussions, feel free to reach out via [GitHub Issues](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/issues).
+
+
 ## **Conclusion**  
 This CMOS-based computational unit successfully demonstrates the integration of **digital logic design principles** into a **functional LTSpice simulation**. The project can be extended further for **larger bit-widths** or **optimized power/performance**.  
 
