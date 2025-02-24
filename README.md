@@ -26,11 +26,11 @@ A **decoder and multiplexer** are incorporated to control and select the require
 
 1. **Open LTSpice** and navigate to the [LT_Spice_Files](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/tree/main/LTSPICE_FILES) directory.  
 2. **Load the main schematic**:  
-   - Open `PART_2_A_SYM.asc` for the **circuit layout**.  
-   - Open `PART_2_A_SYM.asy` to view the **custom symbol** for modularity.  
-   - Open `PART_2_A_TESTING.asc` to verify the **functionality of the design**.  
+   - Open [`PART_2_A_SYM.asc`](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/blob/main/LTSPICE_FILES/PART_2_A_SYM.asc) for the **circuit layout**.  
+   - Open [`PART_2_A_SYM.asy`](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/blob/main/LTSPICE_FILES/part_2_a_sym.asy) to view the **custom symbol** for modularity.  
+   - Open [`PART_2_A_TESTING.asc`](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/blob/main/LTSPICE_FILES/PART_2_A_TESTING.asc) to verify the **functionality of the design**.  
 3. **Run the Overall Design**:  
-   - Open `PART_2A_TESTING.asc`.  
+   - Open [`PART_2A_TESTING.asc`](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/blob/main/LTSPICE_FILES/PART_2_A_TESTING.asc).  
    - Ensure all necessary sub-files are present.  
    - Click **Run** to simulate the entire computational unit.  
 
@@ -62,7 +62,7 @@ The computational unit is structured as follows:
 - The project includes various **test circuits** to validate each module.  
 - The final design is confirmed with **waveform outputs matching expected results**.  
 
-**Note:** To simulate the overall design, you must download all the files provided in the [LT_Spice_Files.](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/tree/main/LTSPICE_FILES)
+**Note:** To simulate the overall design, you must download the [LT_Spice_Files.zip](https://github.com/HanumanSagarBathula7392/Integrated_Computational_Circuit/blob/main/LTSPICE_FILES.zip)
 
 ## License
 
